@@ -3,7 +3,7 @@
 <h3 align="center">💻 Desenvolvedor Full Stack</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil!; Estudante+de+Análise+e+Desenvolvimento+de+Sistemas" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil!;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas" />
 </p>
 
 ---
